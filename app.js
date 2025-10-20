@@ -4,7 +4,7 @@ const port = 3000;
 
 // Route for browser
 app.get('/', (req, res) => {
-  res.send('Hello CI from Node.js!');
+  res.send('Hello CI from feature-update branch!');
 });
 
 // Start server
