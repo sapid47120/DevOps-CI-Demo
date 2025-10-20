@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A simple Node.js CI Pipeline project demonstrating GitHub Actions workflow with automated testing using Jest.
 
 📌 Overview
@@ -214,3 +215,6 @@ ESLint (used in CI)
 📝 License
 
 ISC License — see package.json.
+=======
+# DevOps-CI-Demo
+>>>>>>> 19c894417e8658f7149e77aa01178dcf1aec49c0
